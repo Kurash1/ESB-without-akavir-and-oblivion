@@ -1,6 +1,6 @@
-owner = KC8
-controller = KC8
-add_core = KC8
+
+
+
 religion = dremora_pantheon
 culture = al_dremoran
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = KC7
-    controller = KC7
-    add_core = KC7
+    
+    
+    
 }
 
 272.1.1 = {

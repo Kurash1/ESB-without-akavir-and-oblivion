@@ -1,6 +1,6 @@
-owner = CT2
-controller = CT2
-add_core = CT2
+
+
+
 religion = molag_bal_cult
 culture = harvester
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = CT2
-    controller = CT2
-    add_core = CT2
+    
+    
+    
 }
 
 272.1.1 = {

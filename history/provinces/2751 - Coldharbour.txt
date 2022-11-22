@@ -1,6 +1,6 @@
-owner = CQ7
-controller = CQ7
-add_core = CQ7
+
+
+
 religion = molag_bal_cult
 culture = vampire
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = CQ7
-    controller = CQ7
-    add_core = CQ7
+    
+    
+    
     culture = vampire
 }
 

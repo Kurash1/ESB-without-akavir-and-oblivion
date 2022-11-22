@@ -1,6 +1,6 @@
-owner = TA4
-controller = TA4
-add_core = TA4
+
+
+
 religion = tsaesci_pantheon
 culture = tsaesci
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = TA5
-    controller = TA5
-    add_core = TA5
+    
+    
+    
 }
 
 272.1.1 = {

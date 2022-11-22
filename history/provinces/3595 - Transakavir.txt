@@ -1,6 +1,6 @@
-owner = UB4
-controller = UB4
-add_core = UB4
+
+
+
 religion = tsaesci_pantheon
 culture = tsaesci
 hre = no

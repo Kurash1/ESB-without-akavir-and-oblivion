@@ -1,6 +1,6 @@
-owner = OA2
-controller = OA2
-add_core = OA2
+
+
+
 religion = po_tun_pantheon
 culture = po_tun
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = OA8
-    controller = OA8
-    add_core = OA8
+    
+    
+    
 }
 
 272.1.1 = {

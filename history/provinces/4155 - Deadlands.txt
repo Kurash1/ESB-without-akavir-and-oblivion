@@ -1,6 +1,6 @@
-owner = DX0
-controller = DX0
-add_core = DX0
+
+
+
 religion = mehrunes_dagon_cult
 culture = clanfear
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = DX0
-    controller = DX0
-    add_core = DX0
+    
+    
+    
 }
 
 272.1.1 = {

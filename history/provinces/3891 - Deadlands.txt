@@ -1,6 +1,6 @@
-owner = DT4
-controller = DT4
-add_core = DT4
+
+
+
 religion = molag_bal_cult
 culture = clanfear
 hre = no
@@ -15,9 +15,9 @@ center_of_trade = 1
 
 
 57.1.1 = {
-    owner = DT4
-    controller = DT4
-    add_core = DT4
+    
+    
+    
 }
 
 272.1.1 = {

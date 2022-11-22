@@ -1,6 +1,6 @@
-owner = DW9
-controller = DW9
-add_core = DW9
+
+
+
 religion = molag_bal_cult
 culture = daedroth
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 center_of_trade = 1
 
 57.1.1 = {
-    owner = DW9
-    controller = DW9
-    add_core = DW9
+    
+    
+    
 }
 
 272.1.1 = {

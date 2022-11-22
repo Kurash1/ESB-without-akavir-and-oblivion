@@ -1,6 +1,6 @@
-owner = JA9
-controller = JA9
-add_core = JA9
+
+
+
 religion = tang_mo_pantheon
 culture = tangmo
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = JB0
-    controller = JB0
-    add_core = JB0
+    
+    
+    
 }
 
 272.1.1 = {

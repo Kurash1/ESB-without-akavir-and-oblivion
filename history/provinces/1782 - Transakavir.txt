@@ -1,6 +1,6 @@
-owner = UA4
-controller = UA4
-add_core = UA4
+
+
+
 religion = dragon_cult
 culture = akaviri
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = UA4
-    controller = UA4
-    add_core = UA4
+    
+    
+    
 }
 
 272.1.1 = {

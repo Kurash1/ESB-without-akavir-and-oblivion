@@ -1,6 +1,6 @@
-owner = KC6
-controller = KC6
-add_core = KC6
+
+
+
 religion = kamal_pantheon
 culture = kamal
 hre = no

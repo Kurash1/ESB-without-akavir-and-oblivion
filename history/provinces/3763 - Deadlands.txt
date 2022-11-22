@@ -1,6 +1,6 @@
-owner = DS1
-controller = DS1
-add_core = DS1
+
+
+
 religion = molag_bal_cult
 culture = xivilai
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 center_of_trade = 1
 
 57.1.1 = {
-    owner = DS1
-    controller = DS1
-    add_core = DS1
+    
+    
+    
 }
 
 272.1.1 = {

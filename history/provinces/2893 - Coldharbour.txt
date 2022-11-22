@@ -1,6 +1,6 @@
-owner = CS6
-controller = CS6
-add_core = CS6
+
+
+
 religion = molag_bal_cult
 culture = vampire
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = CS6
-    controller = CS6
-    add_core = CS6
+    
+    
+    
 }
 
 272.1.1 = {

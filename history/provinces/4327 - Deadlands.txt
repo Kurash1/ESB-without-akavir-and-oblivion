@@ -1,6 +1,6 @@
-owner = DZ2
-controller = DZ2
-add_core = DZ2
+
+
+
 religion = mephala_cult
 culture = arachnid
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = DZ3
-    controller = DZ3
-    add_core = DZ3
+    
+    
+    
 }
 
 272.1.1 = {

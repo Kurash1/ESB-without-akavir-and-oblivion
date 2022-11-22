@@ -1,6 +1,6 @@
-owner = DX2
-controller = DX2
-add_core = DX2
+
+
+
 religion = molag_bal_cult
 culture = xivilai
 hre = no
@@ -12,9 +12,9 @@ capital = "The Claw Monolith"
 is_city = yes
 
 57.1.1 = {
-    owner = DX2
-    controller = DX2
-    add_core = DX2
+    
+    
+    
 }
 
 272.1.1 = {

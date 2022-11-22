@@ -1,6 +1,6 @@
-owner = KB9
-controller = KB9
-add_core = KB9
+
+
+
 religion = dremora_pantheon
 culture = al_dremoran
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = KB9
-    controller = KB9
-    add_core = KB9
+    
+    
+    
 }
 
 272.1.1 = {

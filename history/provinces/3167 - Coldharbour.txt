@@ -1,6 +1,6 @@
-owner = CU3
-controller = CU3
-add_core = CU3
+
+
+
 religion = molag_bal_cult
 culture = soul_shriven
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = CU3
-    controller = CU3
-    add_core = CU3
+    
+    
+    
 }
 
 272.1.1 = {

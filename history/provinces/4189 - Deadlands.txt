@@ -1,6 +1,6 @@
-owner = DX3
-controller = DX3
-add_core = DX3
+
+
+
 religion = students_of_magnus
 culture = dremoran
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 center_of_trade = 1
 
 57.1.1 = {
-    owner = DX3
-    controller = DX3
-    add_core = DX3
+    
+    
+    
 }
 
 272.1.1 = {

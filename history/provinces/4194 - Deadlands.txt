@@ -1,6 +1,6 @@
-owner = DX4
-controller = DX4
-add_core = DX4
+
+
+
 religion = molag_bal_cult
 culture = daedroth
 hre = no
@@ -12,9 +12,9 @@ capital = "The Dreaded Refuge"
 is_city = yes
 
 57.1.1 = {
-    owner = DX4
-    controller = DX4
-    add_core = DX4
+    
+    
+    
 }
 
 272.1.1 = {

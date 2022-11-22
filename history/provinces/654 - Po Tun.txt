@@ -1,6 +1,6 @@
-owner = OB0
-controller = OB0
-add_core = OB0
+
+
+
 religion = po_tun_pantheon
 culture = po_tun
 hre = no

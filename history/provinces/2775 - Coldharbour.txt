@@ -1,6 +1,6 @@
-owner = CQ9
-controller = CQ9
-add_core = CQ9
+
+
+
 religion = molag_bal_cult
 culture = dremoran
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = CQ9
-    controller = CQ9
-    add_core = CQ9
+    
+    
+    
 }
 
 272.1.1 = {

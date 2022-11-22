@@ -1,6 +1,6 @@
-owner = DW2
-controller = DW2
-add_core = DW2
+
+
+
 religion = mehrunes_dagon_cult
 culture = xivilai
 hre = no
@@ -15,9 +15,9 @@ center_of_trade = 1
 
 
 57.1.1 = {
-    owner = DW2
-    controller = DW2
-    add_core = DW2
+    
+    
+    
 }
 
 272.1.1 = {

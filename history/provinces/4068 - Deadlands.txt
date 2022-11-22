@@ -1,6 +1,6 @@
-owner = DW1
-controller = DW1
-add_core = DW1
+
+
+
 religion = mehrunes_dagon_cult
 culture = xivilai
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = DW2
-    controller = DW2
-    add_core = DW2
+    
+    
+    
 }
 
 272.1.1 = {

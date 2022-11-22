@@ -1,6 +1,6 @@
-owner = CS4
-controller = CS4
-add_core = CS4
+
+
+
 religion = mehrunes_dagon_cult
 culture = scamp
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = CS4
-    controller = CS4
-    add_core = CS4
+    
+    
+    
 }
 
 272.1.1 = {

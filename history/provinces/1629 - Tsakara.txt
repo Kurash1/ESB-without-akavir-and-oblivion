@@ -1,6 +1,6 @@
-owner = ELZ
-controller = ELZ
-add_core = ELZ
+
+
+
 religion = tsaesci_pantheon
 culture = tsaesci
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = ELZ
-    controller = ELZ
-    add_core = ELZ
+    
+    
+    
 }
 
 272.1.1 = {

@@ -1,6 +1,6 @@
-owner = TB0
-controller = TB0
-add_core = TB0
+
+
+
 religion = dragon_cult
 culture = akaviri
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = TB4
-    controller = TB4
-    add_core = TB4
+    
+    
+    
 }
 
 272.1.1 = {

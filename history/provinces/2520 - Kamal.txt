@@ -1,6 +1,6 @@
-owner = KB7
-controller = KB7
-add_core = KB7
+
+
+
 religion = kamal_pantheon
 culture = kamal
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 
 
 57.1.1 = {
-    owner = KB7
-    controller = KB7
-    add_core = KB7
+    
+    
+    
 }
 
 272.1.1 = {

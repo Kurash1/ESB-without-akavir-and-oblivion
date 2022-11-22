@@ -1,6 +1,6 @@
-owner = DZ5
-controller = DZ5
-add_core = DZ5
+
+
+
 religion = mephala_cult
 culture = arachnid
 hre = no
@@ -14,9 +14,9 @@ is_city = yes
 center_of_trade = 1
 
 57.1.1 = {
-    owner = DZ5
-    controller = DZ5
-    add_core = DZ5
+    
+    
+    
 }
 
 272.1.1 = {
